@@ -1,7 +1,7 @@
 Hola 👋 Mi nombre es Jhan Carlos T G
 ================================
 
-Ingeniero Informático, Desarrollador Front-End
+Ingeniero Informático - Desarrollador Front-End
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍 estoy basado en Soy un Ingeniero informático, me apasiona la tecnología y la innovación. Tengo gran capacidad para adaptarme a todo tipo de entornos y aportar siempre lo mejor de mí. Me caracteriza por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. En busca de una oportunidad laboral en la que adquirir más experiencia. Mi objetivo es seguir creando en el campo de la ingeniería informática, contribuyendo al desarrollo de soluciones tecnológicas innovadoras que mejoran la vida de las personas.Estoy interesado en explorar nuevas oportunidades en inteligencia artificial y machine learning para resolver problemas completos y adelantar en la automatización de procesos.
